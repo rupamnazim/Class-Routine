@@ -41,7 +41,13 @@ tr:nth-child(even) {
     background-color: #f9f9f9;
 }
 
+h2 {
+    text-align: center;
+    font-size: 2vw;
+}
+
 a {
+    font-size: 3vw;
     text-align: center;
     text-decoration: none;
     color: #007bff;
