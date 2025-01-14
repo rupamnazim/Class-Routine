@@ -36,7 +36,7 @@ tr:nth-child(even) {
 }
 
 a {
-    align-items: center;
+    text-align: center;
     text-decoration: none;
     color: #007bff;
 
