@@ -46,9 +46,20 @@ h2 {
     font-size: 2vw;
 }
 
-a {
+.button {
     font-size: 3vw;
     text-align: center;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 1vw 2vw;
+    text-align: center;
     text-decoration: none;
-    color: #007bff;
+    display: inline-block;
+    font-size: 1.5vw;
+    margin: 1vw 0;
+    cursor: pointer;
 }
